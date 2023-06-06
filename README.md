@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroAvilaPaiDaManu](https://github.com/PedroAvilaPaiDaManu)
 
-- 💬 Ask me about **Data Science, Agile, Software Process, Business Analysis, Requirements Analysis**
+- 💬 Ask me about **Data Engineer, Agile, Software Process, Business Analysis, Requirements Analysis**
 
 - 📫 How to reach me **pedronp_avila@yahoo.com.br**
 
